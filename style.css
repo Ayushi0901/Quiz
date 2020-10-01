@@ -5,9 +5,9 @@ body {
 .grid {
     width: 600px;
     height: 500px;
-    margin: 0 auto;
+    margin: 1 auto;
     background-color: yellow;
-    padding: 10px 50px 50px 50px;
+    padding: 15px 50px 50px 50px;
     border: 2px solid #cbcbcb;
     
 }
@@ -15,8 +15,8 @@ body {
 .grid h1 {
     font-family: "sans-serif";
     background-color: red;
-    font-size: 60px;
-    text-align: center;
+    font-size: 50px;
+    text-align: justify;;
     color: voilet;
     padding: 2px 0px;
     
@@ -25,7 +25,7 @@ body {
 #score {
     color: green;
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
 }
  
 .grid #question {
@@ -35,7 +35,7 @@ body {
 }
  
 .buttons {
-    margin-top: 30px;
+    margin-top: 35px;
 }
  
 #btn0, #btn1, #btn2, #btn3 {
