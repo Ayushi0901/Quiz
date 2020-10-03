@@ -81,6 +81,7 @@ var questions = [
     new Question("Which is not a JavaScript Framework?", ["Python Script", "JQuery","Django", "NodeJS"], "Django"),
     new Question("Which is used for Connect To Database?", ["PHP", "HTML", "JS", "All"], "PHP"),
     new Question("Webdevtrick.com is about..", ["Web Design", "Graphic Design", "SEO & Development", "All"], "All"),
+    new Question("Which is not a product of google?", ["Youtube", "Gdrive","Windows", "Android"], "Windows"),
     new Question("Who is the first Prime Minister of India ?",["Rajendra prasad","Lal Bahudar Shastri","APJ Abdul Kalaam","JAWAHAR LAL NEHRU"], "JAWAHAR LAL NEHRU"),
 
 
